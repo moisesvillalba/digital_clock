@@ -1,6 +1,5 @@
 from tkinter import Tk,Label
-
-window = tk()
-window.title("Digital Clock")
-window.geometry("600X300")
+window = Tk()
+window.title("Reloj Digital - Digital Clock")
+window.geometry("600x300")
 window.mainloop()
